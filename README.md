@@ -1,0 +1,2 @@
+# EncriptadorAlura
+Este proyecto es un challenge realizado para Alura Latam en One Oracle Next Education, se trata de un encriptador, Qué quiere decir esto? bueno, ingresa una palabra o varias en minuscula sin signos y el encriptador va a modificartelas de manera que queden casi ilegibles como si fueran un secreto, pero si deseas volver a conocer lo que estas palabras tienen oculto solo debes copiarlas y el desencriptador va a revelarte el secreto. 
